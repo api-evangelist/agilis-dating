@@ -1,0 +1,29 @@
+aid: agilis-dating
+name: Agilis
+description: 'Agilis is a company surfaced via the API Evangelist harvest backlog (source: new-submission)
+  and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/agilis-dating/apis.yml
+x-type: company
+x-source: harvest:new-submission
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-11-11'
+modified: '2026-11-11'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://www.agilis.dating/
+- type: Documentation
+  url: https://www.agilis.dating/api-doc
+x-submission-notes: Agilis Advertising API (Agilis Dating Ltd, UK); OpenAPI https://www.agilis.dating/openapi.json,
+  api-catalog, llms.txt
+x-submission-probe: 2026-11-11 root + invented path both 403 Cloudflare challenge (bot-blocking); /openapi.json
+  200 OpenAPI 3.1
