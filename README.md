@@ -1,4 +1,4 @@
-# Agilis
+# Agilis Dating Ltd
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Agilis is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.agilis.dating/
+Agilis Dating Ltd operates a free dating platform that connects singles worldwide without subscriptions or paywalls. The service emphasizes genuine connections, privacy, and a safe environment, offering web and mobile apps for users to meet and interact. The company provides an advertising API for businesses to access audience data, manage offers, and retrieve analytics, supporting both test and live environments.
+
+**Areas:** Dating · Advertising · API · Free · UK
+
+## Agilis Dating Ltd on APIs.io
+
+Everything profiled for Agilis Dating Ltd is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agilis-dating/](https://apis.io/providers/agilis-dating/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Agilis Dating Ltd Events API](https://apis.io/apis/agilis-dating/agilis-dating-events-api/) — The Events API from Agilis Dating Ltd — 9 operation(s) for events.
+- [Agilis Dating Ltd Offers API](https://apis.io/apis/agilis-dating/agilis-dating-offers-api/) — The Offers API from Agilis Dating Ltd — 8 operation(s) for offers.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Agilis Dating Ltd Agentic Access](https://apis.io/agentic-access/agilis-dating/agilis-dating-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agilis Dating Context](https://apis.io/jsonld/agilis-dating/agilis-dating-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Agilis Dating Ltd API Rules](https://apis.io/rules/agilis-dating/agilis-dating-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agilis Dating Ltd Authentication](https://apis.io/security/agilis-dating/agilis-dating-authentication/)
+- [Agilis Dating Ltd Domain Security](https://apis.io/security/agilis-dating/agilis-dating-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agilis Dating Ltd Plans Pricing](https://apis.io/plans/agilis-dating/agilis-dating-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.agilis.dating/)
+- [Documentation](https://www.agilis.dating/api-doc)
+- [Getting started](https://www.agilis.dating/about)
+- [API reference](https://www.agilis.dating/api-doc)
+- [Terms of service](https://www.agilis.dating/terms-and-conditions)
+- [Privacy policy](https://www.agilis.dating/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 52.5** — developing · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 52.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 53.2 |
+
+**Agent readiness 67.8** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agilis-dating/](https://apis.io/providers/agilis-dating/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Agilis Dating Ltd: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agilis-dating/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
