@@ -66,7 +66,7 @@
 
 Agilis Dating Ltd operates a free dating platform that connects singles worldwide without subscriptions or paywalls. The service emphasizes genuine connections, privacy, and a safe environment, offering web and mobile apps for users to meet and interact. The company provides an advertising API for businesses to access audience data, manage offers, and retrieve analytics, supporting both test and live environments.
 
-**Areas:** Dating · Advertising · API · Free · UK
+**Areas:** Dating · Advertising · Free · United Kingdom
 
 ## Agilis Dating Ltd on APIs.io
 
@@ -125,34 +125,34 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 52.5** — developing · rubric 0.27.0 · scored 2026-11-12
+**Kin Score 43.8** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 52.2 |
-| Contract governance | 79.1 |
+| Discoverability | 75.0 |
+| Contract quality | 55.3 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 56.4 |
-| Access clarity | 53.2 |
+| Developer ergonomics | 51.8 |
+| Access clarity | 44.7 |
 
-**Agent readiness 67.8** — agent-native
+**Agent readiness 57.8** — agent-native
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | verified |
 | Error Semantics | verified |
 | OpenAPI Examples | partial |
 | Rate Limit Signal | verified |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | derived (partial credit) |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
@@ -162,8 +162,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agilis-dating/](https://apis.io/providers/agilis-dating/).
 
